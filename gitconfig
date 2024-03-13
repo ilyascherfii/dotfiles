@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ilyas.cherfi@cliking.co
+	name = ilyas cherfi
